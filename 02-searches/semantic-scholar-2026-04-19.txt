@@ -1,0 +1,9 @@
+Semantic Scholar Search (via Publish or Perish)
+
+Query: [Canonical String from search-string-canonical.txt]
+
+Year filter: 1978-2024
+Interface: Publish or Perish 8
+Sort: Citation Count
+
+Records returned: 250

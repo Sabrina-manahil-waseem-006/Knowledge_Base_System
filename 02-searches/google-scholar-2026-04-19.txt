@@ -1,0 +1,12 @@
+Google Scholar Search (via Publish or Perish)
+
+Query: [Canonical String from search-string-canonical.txt]
+
+Year filter: 1978-2024
+Interface: Publish or Perish 8
+Sort: Relevance
+
+Note: Google Scholar supports broad Boolean. The search was performed using 
+the full canonical string to capture historical and modern rule-based systems.
+
+Records returned: 250

@@ -1,0 +1,33 @@
+CANONICAL SEARCH STRING
+Last updated: 2026-04-19
+Locked for execution: 2026-04-19
+Peer-reviewed using PRESS 2015 checklist: 2026-04-19
+
+================================================================
+Boolean structure: (Block 1) AND (Block 2)
+================================================================
+
+BLOCK 1 - Core Rule-Based & KBS Terminology
+(
+  "rule-based system*" OR "rule-based inference*" OR "rule-based reasoning*" OR 
+  "expert system*" OR "knowledge-based system*" OR "inference engine*" OR 
+  "rule engine*" OR "production system*" OR "decision support system*" OR 
+  "automated reasoning*" OR "logical inference*" OR "forward chaining*" OR 
+  "backward chaining*" OR "hybrid reasoning*"
+)
+
+AND
+
+BLOCK 2 - Scalability, Performance & Limitations
+(
+  "limitations*" OR "challenges*" OR "bottlenecks*" OR "performance issues*" OR 
+  "scalability issues*" OR "rule explosion problem*" OR "maintainability issues*" OR 
+  "integration issues*" OR "explainability challenges*" OR "knowledge representation limitations*"
+)
+
+================================================================
+Filters
+================================================================
+Date range: 1978-01-01 to 2024-12-31
+Languages: English
+Document types: Journal Articles, Conference Papers

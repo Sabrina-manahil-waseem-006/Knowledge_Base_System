@@ -1,0 +1,5 @@
+PLACEHOLDER
+
+Registration status: Pending
+Planned Registration Title: Scalable Rule-Based Inference Architectures (SRBIA) SLR
+Anticipated DOI: 10.17605/OSF.IO/RULE_BASED_XXXX
