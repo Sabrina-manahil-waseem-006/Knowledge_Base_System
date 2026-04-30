@@ -1,0 +1,49 @@
+PRISMA 2020 FLOW DIAGRAM DATA — SRBIA REVIEW
+
+==============================================================
+IDENTIFICATION
+==============================================================
+Database: Google Scholar and Semantic Scholar
+Keywords: ("rule-based system*" OR "rule-based inference*" OR "rule-based 
+reasoning*" OR "expert system*" OR "knowledge-based system*" OR "inference 
+engine*" OR "rule engine*" OR "production system*" OR "decision support 
+system*" OR "automated reasoning*" OR "logical inference*" OR "forward 
+chaining*" OR "backward chaining*" OR "hybrid reasoning*" OR "effect of rule
+based inference on system performance*" OR "effect of scalability on rule-based 
+systems*" OR "effect of distributed architecture on inference engine*" OR 
+"effect of microservices on rule engine performance*" OR "effect of parallel 
+processing on inference systems*" OR "effect of knowledge representation on 
+reasoning efficiency*" OR "effect of rule explosion on system scalability*" OR 
+"effect of system architecture on reasoning performance*" OR "effect of 
+optimization techniques on inference efficiency*") 
+AND 
+("limitations*" OR "challenges*" OR "bottlenecks*" OR "performance issues*" OR 
+"scalability issues*" OR "rule explosion problem*" OR "maintainability issues*" 
+OR "integration issues*" OR "explainability challenges*" OR "knowledge 
+representation limitations*")
+
+Total Identified (n): 500
+
+==============================================================
+SCREENING (Title, Abstract, and Keywords)
+==============================================================
+Records Screened: 500
+Irrelevant Records Excluded: 400
+Relevant Records for Full-Text Assessment: 100
+
+==============================================================
+ELIGIBILITY (Full-Text Reading)
+==============================================================
+Reports assessed for Eligibility (Entire content read): 100
+Excluded after Full-Text review: 88
+Reasons for exclusion: 
+ - Lack of architectural detail
+ - Duplicate case studies
+ - Out-of-date performance metrics
+ - Focus on non-scalable frameworks
+
+==============================================================
+INCLUDED
+==============================================================
+Final Articles used in this research: 12
+Total Studies included in Synthesis: 12

@@ -1,0 +1,12 @@
+PRISMA 2020 STATEMENT — CITATION INFORMATION (SRBIA Project)
+
+When citing PRISMA 2020 in your KBS manuscript, use the following:
+
+Primary Statement:
+Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an 
+updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. 
+doi:10.1136/bmj.n71
+
+Resources:
+- Website: https://www.prisma-statement.org/
+- Checklist: https://www.prisma-statement.org/prisma-2020
