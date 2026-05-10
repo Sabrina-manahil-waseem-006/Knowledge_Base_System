@@ -1,6 +1,6 @@
 # Replication Package (SRBIA Project)
 
-Materials needed to replicate or build on this systematic review of Scalable Rule-Based Inference Architectures. Per PRISMA 2020 item 27, this package ensures research transparency.
+Materials needed to replicate or build on this systematic review of Scalable Rule-Based Inference Architectures (SRBIA). Per PRISMA 2020 item 27, this package ensures research transparency and reproducibility.
 
 ## Contents (Planned)
 
@@ -11,12 +11,25 @@ Materials needed to replicate or build on this systematic review of Scalable Rul
 - `S5-data-extraction.xlsx` — Complete architectural and performance data extracted from 12 studies.
 - `S6-included-studies.bib` — BibTeX file of all included studies for citation reuse.
 
+## Use of Generative AI (Disclosure)
+
+In accordance with academic integrity and transparency standards, the following AI tools were utilized to assist in the systematic review process:
+
+1. **Google Gemini:** 
+   - Initial brainstorming and refinement of Boolean search strings.
+   - Summarizing lengthy technical descriptions from the identified studies.
+   - Assisting in the drafting and formatting of the README and documentation files.
+
+2. **Anthropic Claude:** 
+   - Data extraction logic design for complex architectural performance metrics.
+   - Cross-verifying consistency between extracted data points and study results.
+   - Synthesizing technical comparisons between different rule-based engines.
+
+*Note: All AI-assisted outputs were manually reviewed, cross-referenced with the original source papers, and strictly verified by the authors to ensure academic accuracy and technical reliability.*
+
 ## Why a replication package matters
 
 Following PRISMA 2020 item 27, this package allows future researchers to:
 1. **Verify** the performance metrics reported in our SRBIA framework.
 2. **Re-run** the search strategy to update the review beyond 2024.
 3. **Extend** our data extraction form to other knowledge-based system topics.
-
-## DOI
-Placeholder for Zenodo deposit: 10.5281/zenodo.SRBIA.2026
